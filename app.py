@@ -15,7 +15,7 @@ def load_qa_data(file_path):
             qa_dict[q] = a
     return qa_dict
 
-qa_file_path = r"F:\J.A.R.V.I.S\DATA\BRAIN_DATA\QNQ_DATA\qna.txt"
+qa_file_path = r"StudyBuddy\DATA\data.txt"
 qa_dict = load_qa_data(qa_file_path)
 
 keywords = ["what is", "who is", "tell me", "teach me", "who are",

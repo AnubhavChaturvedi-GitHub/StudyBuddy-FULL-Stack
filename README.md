@@ -21,7 +21,7 @@ StudyBuddy.AI is an interactive AI chat application built with HTML, CSS, and Ja
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/StudyBuddy.AI.git
+   git clone https://github.com/AnubhavChaturvedi-GitHub/StudyBuddy.AI.git
    ```
 
 2. Open the `index.html` file in a web browser.
@@ -55,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Inspired by the idea of creating a modern and interactive AI chat application.
 ```
 
-Make sure to replace `your-username` with your actual GitHub username and adjust the image path (`./images/study_buddy_screenshot.png`) accordingly.
+Ensure that the image file is named correctly and is in the root of your repository. If the issue persists, double-check the image URL and file extension.

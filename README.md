@@ -4,7 +4,7 @@
 
 StudyBuddy.AI is an interactive AI chat application built with HTML, CSS, and JavaScript. It allows users to interact with an AI model, making the learning process more engaging.
 
-![StudyBuddy.AI](https://github.com/AnubhavChaturvedi-GitHub/StudyBuddy/blob/main/Screenshot%202024-02-09%20170310.png)
+![./StudyBuddy/blob/main/Screenshot%202024-02-09%20170310.png)
 
 ## Features
 

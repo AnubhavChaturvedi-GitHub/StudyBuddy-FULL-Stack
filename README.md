@@ -1,3 +1,6 @@
+
+![StudyBuddy.AI Screenshot](./Screenshot%202024-02-09%20170310.png)
+
 ```markdown
 # StudyBuddy.AI
 
